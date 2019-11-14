@@ -39,6 +39,7 @@
                                 </h3>
                                 <div class="ml-auto">
                                     <a href="{{route('questions.edit', $question->id)}}" class="btn btn-sm btn-outline-info">Edit</a>
+                                    
                                 </div>
                                 </div>
                                     <p class="lead">
